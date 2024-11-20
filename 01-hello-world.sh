@@ -1,1 +1,2 @@
-hello viewers iam learning aws devops
+#!/bin/bash
+echo "hello viewers iam learning aws devops"
